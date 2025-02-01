@@ -3,9 +3,8 @@ package com.sprinbootproject.Website;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.util.Set;
-
-
+@NoArgsConstructor
+@AllArgsConstructor
 
 @Entity
 @Data
