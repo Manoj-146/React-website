@@ -6,8 +6,7 @@ import lombok.*;
 import java.util.Set;
 
 
-@NoArgsConstructor
-@AllArgsConstructor
+
 @Entity
 @Data
 @Table(name="products")
