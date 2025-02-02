@@ -1,4 +1,3 @@
-// components/LoginModal.js
 import React, { useState } from 'react';
 
 const LoginModal = ({ onClose, onLogin, onSignup }) => {
